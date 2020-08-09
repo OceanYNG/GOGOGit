@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HelloMavenWeb" />
+        <module name="HelloMaven" />
+        <module name="HelloGit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HelloGit" target="1.5" />
+      <module name="helloMaven" target="1.5" />
+      <module name="HelloMaven" target="1.8" />
+      <module name="HelloMavenWeb" target="1.5" />
+      <module name="manven_webTest" target="1.5" />
+      <module name="Maven_achetype" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/HelloMavenWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Maven_achetype/Maven_achetype/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_3/pom.xml" />
+        <option value="$PROJECT_DIR$/manven_wapTest/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_webTest/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloGit/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloMavenWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloMaven/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/manven_webTest/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
